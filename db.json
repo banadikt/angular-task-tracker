@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Dentist Appointment",
+      "day": "June 10th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Football Training",
+      "day": "Tuesday at 7pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Swimming Lessons",
+      "day": "Monday at 6pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Angular Project",
+      "day": "ASAP",
+      "reminder": true
+    }
+  ]
+}
